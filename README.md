@@ -2,7 +2,7 @@
 
 This is the repository for the [Style Transformer for Authorship Representations (STAR)](https://arxiv.org/abs/2310.11081) model. This code is meant for replication of our study.
 
-Also check out our [https://huggingface.co/AIDA-UPM/star](huggingface repo for STAR) for direct usage.
+Also check out our [huggingface repo for STAR](https://huggingface.co/AIDA-UPM/star) for direct usage.
 
 ## Citation
 ```
